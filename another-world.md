@@ -411,8 +411,8 @@ permalink: /another-world/
         transferred and verified before entering Another World.</p>
       </div>
       <div class="card">
-        <h3>3D Projector (Optional)</h3>
-        <p>For optimal visualization, the 3D Projector can display your Another World experiences in 
+        <h3>Consciousness Projector (Optional)</h3>
+        <p>For optimal visualization, the Consciousness Projector can display your Another World experiences in 
         stunning holographic detail in your physical space.</p>
       </div>
       <div class="card">

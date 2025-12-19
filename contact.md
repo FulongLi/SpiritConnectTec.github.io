@@ -48,7 +48,7 @@ description: Get in touch with Spirit Connect Science and Technology.
     <h2>Work With Us</h2>
     <p class="lead">
       If you'd like to discuss consciousness transfer services, schedule a consultation for Cabin SC1, 
-      learn about our 3D Projector, or explore entering Another World, send us an email and we'll get 
+      learn about our Consciousness Projector, or explore entering Another World, send us an email and we'll get 
       back to you promptly.
     </p>
     <div style="margin-top: 2rem;">

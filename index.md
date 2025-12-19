@@ -50,9 +50,9 @@ description: Copy and update human consciousness and memory to the digital world
           <source src="{{ '/images/general/h2.mp4' | relative_url }}" type="video/mp4">
           Your browser does not support the video tag.
         </video>
-        <h3>3D Projector</h3>
+        <h3>Consciousness Projector</h3>
         <p>State-of-the-art projection technology that visualizes and interacts with digitized consciousness in immersive 3D environments.</p>
-        <a href="{{ '/products/3d-projector/' | relative_url }}" class="card-link">Learn More →</a>
+        <a href="{{ '/products/consciousness-projector/' | relative_url }}" class="card-link">Learn More →</a>
       </div>
       <div class="card card-featured">
         <video autoplay muted loop playsinline style="width: 100%; max-width: 200px; height: auto; border-radius: var(--radius); margin-bottom: 1rem;">

@@ -16,7 +16,7 @@ Spirit Connect Science and Technology develops revolutionary technology for cons
 ### Our Products
 
 - **🧠 Cabin SC1** – Advanced consciousness transfer system for memory upload and digital preservation
-- **📽️ 3D Projector** – Holographic projection technology for visualizing digitized consciousness
+- **📽️ Consciousness Projector** – Holographic projection technology for visualizing digitized consciousness
 - **🌐 Another World** – Virtual reality real-time immersive game for digitized consciousness
 
 ---
