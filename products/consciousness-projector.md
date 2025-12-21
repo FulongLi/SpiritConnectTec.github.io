@@ -155,7 +155,10 @@ permalink: /products/consciousness-projector/
       </div>
       <div class="case-study-visual">
         <div class="visual-placeholder">
-          <img src="{{ '/images/anotherworld/3dp.png' | relative_url }}" alt="Consciousness Projector" style="max-width: 60%; height: auto; border-radius: var(--radius);">
+          <video autoplay muted loop playsinline style="max-width: 60%; height: auto; border-radius: var(--radius);">
+            <source src="{{ '/images/general/cp.mp4' | relative_url }}" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
         </div>
       </div>
     </div>
