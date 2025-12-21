@@ -6,13 +6,26 @@ permalink: /another-world/
 ---
 <style>
   .anotherworld-hero-bg {
-    background: url("{{ '/images/general/aow.mp4' | relative_url }}") center center/cover no-repeat;
     position: relative;
     min-height: 720px;
     width: 100%;
     padding: 8rem 0 6rem;
     display: flex;
     align-items: center;
+    overflow: hidden;
+  }
+  .anotherworld-hero-bg video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    opacity: 0.8;
+    object-fit: cover;
   }
   .anotherworld-hero-bg .container {
     position: relative;
@@ -24,7 +37,7 @@ permalink: /another-world/
     position: absolute;
     inset: 0;
     background: rgba(16, 26, 40, 0.60); /* dark overlay for readability */
-    z-index: 1;
+    z-index: 0;
     pointer-events: none;
   }
   .anotherworld-hero-bg .badge {
@@ -162,6 +175,10 @@ permalink: /another-world/
   </audio>
 </div>
 <div class="anotherworld-hero-bg">
+  <video autoplay muted loop playsinline>
+    <source src="{{ '/images/general/aow.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <div class="container">
     <h1 style="color: #fff; font-size: 3.2rem; line-height: 1.1; margin-top: 0; margin-bottom: 2.2rem;">Welcome to Another World</h1>
     <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 2.4rem;">
