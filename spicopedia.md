@@ -32,7 +32,7 @@ permalink: /spicopedia/
 
 <section class="section section-featured">
   <div class="container">
-    <h2>Key Figures</h2>
+    <h2>Index</h2>
     <div class="grid" style="margin-top: 2rem;">
       <div class="card">
         <h3>Stephen Cross</h3>
