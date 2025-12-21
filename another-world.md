@@ -6,7 +6,7 @@ permalink: /another-world/
 ---
 <style>
   .anotherworld-hero-bg {
-    background: url("{{ '/images/anotherworld/anotherworldmain.png' | relative_url }}") center center/cover no-repeat;
+    background: url("{{ '/images/general/aow.mp4' | relative_url }}") center center/cover no-repeat;
     position: relative;
     min-height: 720px;
     width: 100%;

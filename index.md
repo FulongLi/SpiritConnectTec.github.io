@@ -6,7 +6,7 @@ description: Copy and update human consciousness and memory to the digital world
 
 <header class="hero" style="min-height: 720px; position: relative; overflow: hidden;">
   <video autoplay muted loop playsinline style="position: absolute; top: 50%; left: 50%; min-width: 100%; min-height: 100%; width: auto; height: auto; transform: translate(-50%, -50%); z-index: -1; opacity: 0.8; object-fit: cover;">
-    <source src="{{ '/images/general/sc.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/images/general/sc1.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <div style="position: absolute; inset: 0; background: rgba(16, 26, 40, 0.40); z-index: 0; pointer-events: none;"></div>
