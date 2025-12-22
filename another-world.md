@@ -318,11 +318,23 @@ permalink: /another-world/
   <div class="container">
     <div class="solution-content">
       <div class="solution-visual">
-        <div class="visual-placeholder" style="padding: 0; overflow: hidden;">
-          <video autoplay muted loop playsinline style="width: 40%; height: 40%; object-fit: cover; border-radius: var(--radius); transform: rotate(270deg);">
-            <source src="{{ '/assets/bgv.webm' | relative_url }}" type="video/webm">
-            Your browser does not support the video tag.
-          </video>
+        <div style="margin-bottom: 2rem;">
+          <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Lost in Atlantis</h3>
+          <div class="visual-placeholder" style="padding: 0; overflow: hidden;">
+            <video autoplay muted loop playsinline style="width: 40%; height: 40%; object-fit: cover; border-radius: var(--radius); transform: rotate(270deg);">
+              <source src="{{ '/images/general/LA.mp4' | relative_url }}" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+        <div style="margin-bottom: 2rem;">
+          <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Dual Born Space</h3>
+          <div class="visual-placeholder" style="padding: 0; overflow: hidden;">
+            <video autoplay muted loop playsinline style="width: 40%; height: 40%; object-fit: cover; border-radius: var(--radius); transform: rotate(270deg);">
+              <source src="{{ '/images/general/db.mp4' | relative_url }}" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
         </div>
         <div style="margin-top: 2rem;">
           <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Dragons</h3>
