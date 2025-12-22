@@ -18,7 +18,7 @@ permalink: /company/document/
 
 <section class="section">
   <div class="container">
-    <h2>1号灵接舱 （ Cabin SC—1 ）</h2>
+    <h2>Cabin SC1, Jim Dickens</h2>
 
     <div class="card" style="margin-bottom: 1.5rem; display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
       <div style="flex:1 1 320px;min-width:240px;max-width:420px;">
@@ -29,6 +29,9 @@ permalink: /company/document/
         <p>
           <strong>The Dark Side of the Moon</strong> is our foundational concept book exploring the philosophy, science, and technology of consciousness preservation and digital existence. 
           Dive into the vision that guides Spirit Connect Science and Technology, including our approach to memory upload and virtual self-continuity.
+        </p>
+        <p style="margin-top: 1rem;">
+          📖 <strong>Now on</strong> <a href="http://books.apple.com/us/book/id6756632701" target="_blank" rel="noopener noreferrer"><strong>Apple Books</strong></a>
         </p>
       </div>
     </div>
