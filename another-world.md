@@ -336,7 +336,7 @@ permalink: /another-world/
             </video>
           </div>
         </div>
-        <div style="margin-top: 2rem;">
+        <!-- <div style="margin-top: 2rem;">
           <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Dragons</h3>
           <div class="photo-carousel">
             <button class="carousel-nav prev" onclick="slideCarousel('prev')" aria-label="Previous">‹</button>
@@ -351,7 +351,7 @@ permalink: /another-world/
             <button class="carousel-nav next" onclick="slideCarousel('next')" aria-label="Next">›</button>
             <div class="carousel-dots" id="carouselDots"></div>
           </div>
-        </div>
+        </div> -->
         <script>
           let currentSlide = 0;
           const totalSlides = 2;
