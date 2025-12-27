@@ -106,7 +106,7 @@ permalink: /company/about/
       <div class="card">
         <h3>Hardware Development</h3>
         <p>We design and manufacture revolutionary hardware like the Cabin SC1 consciousness transfer system 
-        and the 3D Projector for holographic visualization.</p>
+        and the Consciousness Projector for holographic visualization.</p>
       </div>
       <div class="card">
         <h3>Software Platforms</h3>

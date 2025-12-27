@@ -41,11 +41,11 @@ permalink: /products/
       
       <div class="card card-featured">
         <div class="card-icon">📽️</div>
-        <h3>3D Projector</h3>
+        <h3>Consciousness Projector</h3>
         <p>State-of-the-art projection technology that visualizes and interacts with digitized consciousness in immersive 3D environments. 
         Experience your digital self in stunning detail with holographic display technology.</p>
         <div style="margin-top: 1.5rem;">
-          <a href="{{ '/products/3d-projector/' | relative_url }}" class="card-link">Learn More →</a>
+          <a href="{{ '/products/consciousness-projector/' | relative_url }}" class="card-link">Learn More →</a>
         </div>
       </div>
     </div>
@@ -65,7 +65,7 @@ permalink: /products/
       </div>
       <div class="card">
         <h3>Step 2: Visualization</h3>
-        <p>Experience your digitized consciousness with the <strong>3D Projector</strong>. See yourself in stunning 
+        <p>Experience your digitized consciousness with the <strong>Consciousness Projector</strong>. See yourself in stunning 
         holographic detail and interact with your digital self in real-time.</p>
       </div>
       <div class="card">
@@ -85,12 +85,12 @@ permalink: /products/
         <h2>From Physical to Digital</h2>
         <p class="lead">
           Our products form a complete ecosystem for consciousness preservation. Start with the Cabin SC1 to transfer 
-          your consciousness, use the 3D Projector to visualize your digital self, and enter Another World to begin 
+          your consciousness, use the Consciousness Projector to visualize your digital self, and enter Another World to begin 
           your journey in the digital realm.
         </p>
         <div class="case-study-actions">
           <a href="{{ '/products/cabin-sc1/' | relative_url }}" class="btn btn-primary">Explore Cabin SC1</a>
-          <a href="{{ '/products/3d-projector/' | relative_url }}" class="btn btn-ghost">Learn About 3D Projector</a>
+          <a href="{{ '/products/consciousness-projector/' | relative_url }}" class="btn btn-ghost">Learn About Consciousness Projector</a>
         </div>
       </div>
       <div class="case-study-visual">
@@ -111,7 +111,7 @@ permalink: /products/
           <tr style="background: var(--nav-bg); color: #fff;">
             <th style="padding: 1rem; text-align: left;">Feature</th>
             <th style="padding: 1rem; text-align: left;">Cabin SC1</th>
-            <th style="padding: 1rem; text-align: left;">3D Projector</th>
+            <th style="padding: 1rem; text-align: left;">Consciousness Projector</th>
           </tr>
         </thead>
         <tbody>
@@ -137,7 +137,7 @@ permalink: /products/
           </tr>
           <tr>
             <td style="padding: 1rem; font-weight: 600;">Integration</td>
-            <td style="padding: 1rem;">Works with 3D Projector</td>
+            <td style="padding: 1rem;">Works with Consciousness Projector</td>
             <td style="padding: 1rem;">Requires Cabin SC1</td>
           </tr>
         </tbody>

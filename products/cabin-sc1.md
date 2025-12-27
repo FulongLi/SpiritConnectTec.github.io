@@ -131,7 +131,7 @@ permalink: /products/cabin-sc1/
       </div>
       <div class="card">
         <h3>Compatibility</h3>
-        <p>Works seamlessly with all virtual environments including Another World, 3D Projector systems, and future platforms.</p>
+        <p>Works seamlessly with all virtual environments including Another World, Consciousness Projector systems, and future platforms.</p>
       </div>
       <div class="card">
         <h3>Security</h3>

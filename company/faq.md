@@ -59,8 +59,8 @@ description: Frequently asked questions about consciousness transfer and our tec
       </div>
       
       <div class="card">
-        <h3>Is the 3D Projector required?</h3>
-        <p>The 3D Projector is optional but recommended for optimal visualization of your digitized consciousness. 
+        <h3>Is the Consciousness Projector required?</h3>
+        <p>The Consciousness Projector is optional but recommended for optimal visualization of your digitized consciousness. 
         It provides stunning holographic displays and real-time interaction capabilities.</p>
       </div>
     </div>
