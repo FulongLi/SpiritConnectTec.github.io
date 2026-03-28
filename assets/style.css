@@ -19,8 +19,8 @@
   --radius: 16px;
   --maxw: 1200px;
   --nav-bg: rgba(6, 9, 26, 0.82);
-  --font-body: 'Inter', ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --font-display: 'Space Grotesk', 'Inter', sans-serif;
+  --font-body: 'Orbitron', ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Orbitron', ui-sans-serif, sans-serif;
 }
 
 /* ── Reset & Base ── */
