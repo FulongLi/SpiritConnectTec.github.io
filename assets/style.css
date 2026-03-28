@@ -4,21 +4,21 @@
 
 /* ── Design Tokens ── */
 :root {
-  --bg: #06091a;
-  --bg-alt: #0a1230;
+  --bg: #0f1b2d;
+  --bg-alt: #152238;
   --fg: #e2e8f4;
   --muted: #8892ab;
   --brand: #00e5ff;
   --brand-dark: #00b4d8;
   --accent: #7c4dff;
-  --card: rgba(10, 18, 50, 0.55);
-  --card-solid: #0c1535;
-  --border: rgba(0, 229, 255, 0.08);
-  --border-hover: rgba(0, 229, 255, 0.25);
-  --shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+  --card: rgba(18, 30, 58, 0.6);
+  --card-solid: #152540;
+  --border: rgba(0, 229, 255, 0.1);
+  --border-hover: rgba(0, 229, 255, 0.28);
+  --shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   --radius: 16px;
   --maxw: 1200px;
-  --nav-bg: rgba(6, 9, 26, 0.82);
+  --nav-bg: rgba(15, 27, 45, 0.88);
   --font-body: 'Orbitron', ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-display: 'Orbitron', ui-sans-serif, sans-serif;
 }
@@ -169,9 +169,9 @@ h1, h2, h3, h4 {
 }
 .drop-menu {
   position: absolute; top: 100%; left: 0; min-width: 240px;
-  background: rgba(10, 16, 40, 0.95);
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
+  background: rgba(18, 28, 52, 0.95);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
   border: 1px solid var(--border);
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
   border-radius: 12px; padding: .6rem;
@@ -198,7 +198,7 @@ h1, h2, h3, h4 {
   .hamburger { display: block; }
   .menu {
     position: absolute; right: 0; top: 100%;
-    background: rgba(6, 9, 26, 0.97);
+    background: rgba(15, 27, 45, 0.97);
     backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
     border: 1px solid var(--border);
     box-shadow: 0 20px 50px rgba(0,0,0,.5);
@@ -417,7 +417,7 @@ h1, h2, h3, h4 {
 
 /* ── Case Study Section ── */
 .section-case-study {
-  background: linear-gradient(135deg, #080d28 0%, #0f1540 50%, #0a1030 100%);
+  background: linear-gradient(135deg, #111d35 0%, #162444 50%, #132038 100%);
   color: #fff;
   padding: 6rem 0;
   position: relative;
@@ -524,7 +524,7 @@ h1, h2, h3, h4 {
 /* ── Footer ── */
 .footer {
   border-top: 1px solid var(--border);
-  background: linear-gradient(180deg, var(--bg) 0%, #030510 100%);
+  background: linear-gradient(180deg, var(--bg) 0%, #0a1220 100%);
   padding: 3.5rem 0 2rem;
   color: var(--muted);
   font-size: .95rem;
