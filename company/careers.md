@@ -2,7 +2,7 @@
 layout: default
 title: Careers
 permalink: /company/careers/
-description: Join the team at Spirit Connect Science and Technology.
+description: Join the team at Spirit Connect Technology.
 ---
 
 <header class="hero">

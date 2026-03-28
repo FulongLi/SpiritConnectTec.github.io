@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Document
-description: Latest updates and announcements from Spirit Connect Science and Technology.
+description: Latest updates and announcements from Spirit Connect Technology.
 permalink: /company/document/
 ---
 
@@ -11,7 +11,7 @@ permalink: /company/document/
     <span class="badge">Archives</span>
     <h1>Document & Archives</h1>
     <p class="lead">
-      Key milestones and announcements from <strong>Spirit Connect Science and Technology</strong>.
+      Key milestones and announcements from <strong>Spirit Connect Technology</strong>.
     </p>
   </div>
 </header>
@@ -28,7 +28,7 @@ permalink: /company/document/
         <h3 style="margin-top:0;">The Dark Side of the Moon</h3>
         <p>
           <strong>The Dark Side of the Moon</strong> is our foundational concept book exploring the philosophy, science, and technology of consciousness preservation and digital existence. 
-          Dive into the vision that guides Spirit Connect Science and Technology, including our approach to memory upload and virtual self-continuity.
+          Dive into the vision that guides Spirit Connect Technology, including our approach to memory upload and virtual self-continuity.
         </p>
         <p style="margin-top: 1rem;">
           📖 <strong>Now on</strong> <a href="http://books.apple.com/us/book/id6756632701" target="_blank" rel="noopener noreferrer"><strong>Apple Books</strong></a>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spicopedia
-description: Encyclopedia of Spirit Connect Science and Technology concepts, terms, and knowledge.
+description: Encyclopedia of Spirit Connect Technology concepts, terms, and knowledge.
 permalink: /spicopedia/
 ---
 
@@ -15,7 +15,7 @@ permalink: /spicopedia/
     <span class="badge" style="color: #5EF9FF;">Knowledge Base</span>
     <h1 style="color: #5EF9FF;">Spicopedia</h1>
     <p class="lead" style="color: #5EF9FF;">
-      Comprehensive encyclopedia of concepts, terms, and knowledge related to <strong>Spirit Connect Science and Technology</strong>.
+      Comprehensive encyclopedia of concepts, terms, and knowledge related to <strong>Spirit Connect Technology</strong>.
     </p>
   </div>
 </header>
@@ -38,7 +38,7 @@ permalink: /spicopedia/
         <h3>Stephen Cross</h3>
         <p>
           <strong>Stephen Cross</strong> is the father of <strong>Paul J. Cross</strong>, who serves as a Professor 
-          on the Board of Directors at Spirit Connect Science and Technology.
+          on the Board of Directors at Spirit Connect Technology.
         </p>
         <p style="margin-top: 1rem;">
           Stephen Cross is the author of <em><strong>The Next 30,000 Days of Humanity</strong></em>, a visionary 
@@ -48,7 +48,7 @@ permalink: /spicopedia/
         </p>
         <p style="margin-top: 1rem;">
           Through his son Paul's academic work and board position, Stephen Cross's insights continue to shape 
-          the direction of Spirit Connect Science and Technology's research and development in consciousness 
+          the direction of Spirit Connect Technology's research and development in consciousness 
           preservation and digital immortality.
         </p>
       </div>

@@ -1,17 +1,17 @@
-# Spirit Connect Science and Technology
+# Spirit Connect Technology
 
 > **Copy and update human consciousness and memory to the digital world**
 
-Welcome to the public website repository of **Spirit Connect Science and Technology**.  
+Welcome to the public website repository of **Spirit Connect Technology**.  
 We are pioneering the future of human consciousness preservation and digital existence.
 
-🌐 **Live site:** [https://fulongli.github.io/spiritconnectsciandtec.github.io/](https://fulongli.github.io/spiritconnectsciandtec.github.io/)
+🌐 **Live site:** [https://fulongli.github.io/SpiritConnectTec.github.io/](https://fulongli.github.io/SpiritConnectTec.github.io/)
 
 ---
 
 ## 🚀 What We Do
 
-Spirit Connect Science and Technology develops revolutionary technology for consciousness transfer and digital existence.
+Spirit Connect Technology develops revolutionary technology for consciousness transfer and digital existence.
 
 ### Our Products
 

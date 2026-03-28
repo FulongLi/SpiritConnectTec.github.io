@@ -2,7 +2,7 @@
 layout: default
 title: Contact Us
 permalink: /contact/
-description: Get in touch with Spirit Connect Science and Technology.
+description: Get in touch with Spirit Connect Technology.
 ---
 
 <header class="hero">
@@ -37,7 +37,7 @@ description: Get in touch with Spirit Connect Science and Technology.
         <div class="card-icon">💼</div>
         <h3>LinkedIn</h3>
         <p>Connect and follow updates:</p>
-        <p><a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank">Spirit Connect Science and Technology</a></p>
+        <p><a href="https://www.linkedin.com/in/fulong-li-6bb443127" target="_blank">Spirit Connect Technology</a></p>
       </div>
     </div>
   </div>

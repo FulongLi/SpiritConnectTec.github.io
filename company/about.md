@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Us
-description: Learn about Spirit Connect Science and Technology and our mission.
+description: Learn about Spirit Connect Technology and our mission.
 permalink: /company/about/
 ---
 
@@ -11,7 +11,7 @@ permalink: /company/about/
     <span class="badge">Our Story</span>
     <h1>About Us</h1>
     <p class="lead">
-      Spirit Connect Science and Technology is pioneering the future of human consciousness preservation 
+      Spirit Connect Technology is pioneering the future of human consciousness preservation 
       and digital existence. We are revolutionizing how humanity thinks about life, death, and immortality.
     </p>
   </div>
@@ -21,9 +21,9 @@ permalink: /company/about/
   <div class="container">
     <div class="section-header">
       <span class="section-badge">WHO WE ARE</span>
-      <h2>Spirit Connect Science and Technology</h2>
+      <h2>Spirit Connect Technology</h2>
       <p class="lead">
-        Welcome to Spirit Connect Science and Technology, where we are pioneering the future of human 
+        Welcome to Spirit Connect Technology, where we are pioneering the future of human 
         consciousness preservation and digital existence. We believe that consciousness is not bound by 
         physical limitations and that technology can preserve the essence of who we are for eternity.
       </p>
@@ -76,7 +76,7 @@ permalink: /company/about/
           making immortality possible.
         </p>
         <p style="margin-top: 1.5rem; color: rgba(255,255,255,.9);">
-          At Spirit Connect Science and Technology, we believe that death is not the end. With our revolutionary 
+          At Spirit Connect Technology, we believe that death is not the end. With our revolutionary 
           consciousness transfer technology, you can preserve your essence, your memories, and your consciousness 
           in the digital world, ensuring that who you are continues to exist, learn, and grow indefinitely.
         </p>

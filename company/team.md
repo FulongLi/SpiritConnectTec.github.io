@@ -2,7 +2,7 @@
 layout: default
 title: Team
 permalink: /company/team/
-description: Meet the team behind Spirit Connect Science and Technology.
+description: Meet the team behind Spirit Connect Technology.
 ---
 
 <header class="hero">
@@ -19,13 +19,13 @@ description: Meet the team behind Spirit Connect Science and Technology.
 <section class="section">
   <div class="container">
     <h2>Board Members</h2>
-    <p class="lead">Our board of directors provides strategic guidance and oversight for Spirit Connect Science and Technology.</p>
+    <p class="lead">Our board of directors provides strategic guidance and oversight for Spirit Connect Technology.</p>
     <div class="grid" style="margin-top: 2rem;">
       <div class="card" style="text-align:center;">
         <img src="{{ '/images/team/long_spiricon.jpg' | relative_url }}" alt="Long L Spiricon" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1.5rem;border:3px solid var(--brand);">
         <h3>Long L Spiricon</h3>
         <p><strong>Founder</strong></p>
-        <p>Retired. Founding member of Spirit Connect Science and Technology.</p>
+        <p>Retired. Founding member of Spirit Connect Technology.</p>
       </div>
       <div class="card" style="text-align:center;">
         <img src="{{ '/images/team/na_li.jpg' | relative_url }}" alt="Na Li" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1.5rem;border:3px solid var(--brand);">
@@ -58,7 +58,7 @@ description: Meet the team behind Spirit Connect Science and Technology.
         <img src="{{ '/images/team/john_musk.jpg' | relative_url }}" alt="John Musk" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1.5rem;border:3px solid var(--brand);">
         <h3>John Musk</h3>
         <p><strong>CEO</strong></p>
-        <p>Chief Executive Officer leading Spirit Connect Science and Technology's vision and strategy.</p>
+        <p>Chief Executive Officer leading Spirit Connect Technology's vision and strategy.</p>
       </div>
       <div class="card" style="text-align:center;">
         <img src="{{ '/images/team/morph_lune.jpg' | relative_url }}" alt="Morph Lune" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1.5rem;border:3px solid var(--brand);">

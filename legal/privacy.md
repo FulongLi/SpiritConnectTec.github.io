@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy
 permalink: /legal/privacy/
-description: Privacy policy for Spirit Connect Science and Technology.
+description: Privacy policy for Spirit Connect Technology.
 ---
 
 <header class="hero">
