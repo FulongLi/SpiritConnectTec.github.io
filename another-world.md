@@ -61,8 +61,8 @@ permalink: /another-world/
     overflow: hidden;
     border-radius: var(--radius);
     min-height: 350px;
-    border: 2px dashed var(--border);
-    background: #fff;
+    border: 1px solid var(--border);
+    background: rgba(10, 18, 50, 0.4);
     padding: 0;
   }
   .carousel-track {

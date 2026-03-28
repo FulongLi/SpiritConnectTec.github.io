@@ -1,4 +1,5 @@
 <script>
+/* Hamburger menu */
 const burger = document.querySelector('.hamburger');
 const menu   = document.getElementById('mainmenu');
 if (burger && menu){
@@ -15,6 +16,27 @@ document.querySelectorAll('.drop-toggle').forEach(btn => {
   });
   btn.addEventListener('keydown', (e) => {
     if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); btn.click(); }
+  });
+});
+
+/* Scroll reveal */
+const revealObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('revealed');
+      revealObserver.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+
+document.querySelectorAll('.card, .section h2, .section-header .lead, .hero h1, .hero .badge, .hero .lead, .hero-actions, .case-study-text, .solution-text, .cta-content').forEach(el => {
+  el.classList.add('reveal');
+  revealObserver.observe(el);
+});
+
+document.querySelectorAll('.grid').forEach(grid => {
+  grid.querySelectorAll('.card').forEach((card, i) => {
+    card.style.transitionDelay = `${i * 0.08}s`;
   });
 });
 </script>

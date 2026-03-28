@@ -62,7 +62,7 @@ permalink: /products/consciousness-projector/
   </div>
 </section>
 
-<section class="section section-featured" style="background: linear-gradient(180deg, #f7f9ff 0%, #fff 100%);">
+<section class="section section-featured">
   <div class="container">
     <h2>Applications</h2>
     <p class="lead">The Consciousness Projector opens up new possibilities for experiencing digitized consciousness.</p>

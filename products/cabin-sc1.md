@@ -61,7 +61,7 @@ permalink: /products/cabin-sc1/
   </div>
 </section>
 
-<section class="section section-featured" style="background: linear-gradient(180deg, #f7f9ff 0%, #fff 100%);">
+<section class="section section-featured">
   <div class="container">
     <h2>How the Cabin SC1 Works</h2>
     <p class="lead">The consciousness transfer process is designed to be safe, comprehensive, and seamless.</p>
