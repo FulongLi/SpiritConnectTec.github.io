@@ -34,12 +34,12 @@ permalink: /spicopedia/
   <div class="container">
     <h2>Index</h2>
     <p class="lead" style="margin-top: 1rem;">
-      以下条目按标题拼音字母顺序排列（数字开头排在最前）。
+      Articles in the Spicopedia folder are listed below in alphabetical order by title (A–Z).
     </p>
     <ul class="lead" style="margin-top: 1.5rem; line-height: 2; list-style-position: inside;">
-      <li><a href="{{ '/spicopedia/1947-roswell-ufo-crash/' | relative_url }}">1947罗斯威尔飞碟坠毁事件</a></li>
-      <li><a href="{{ '/spicopedia/dulce-war/' | relative_url }}">道西战争</a></li>
-      <li><a href="{{ '/spicopedia/oil-deception/' | relative_url }}">石油骗局</a></li>
+      <li><a href="{{ '/spicopedia/dulce-war/' | relative_url }}">Dulce War</a></li>
+      <li><a href="{{ '/spicopedia/oil-deception/' | relative_url }}">Oil Deception</a></li>
+      <li><a href="{{ '/spicopedia/1947-roswell-ufo-crash/' | relative_url }}">Roswell UFO Crash (1947)</a></li>
     </ul>
   </div>
 </section>

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 道西战争
-description: 关于美国新墨西哥州道西基地地下设施与所谓「道西战争」的都市传说与阴谋论脉络。
+title: Dulce War
+description: Urban legend and conspiracy literature around an alleged underground base near Dulce, New Mexico, and the so-called “Dulce War.”
 permalink: /spicopedia/dulce-war/
 ---
 
@@ -9,18 +9,22 @@ permalink: /spicopedia/dulce-war/
   <div class="bg"></div>
   <div class="container">
     <span class="badge">Spicopedia</span>
-    <h1>道西战争</h1>
+    <h1>Dulce War</h1>
     <p class="lead">
-      「道西战争」多指围绕道西（Dulce）地下基地传说的一系列叙事，涉及人类与地外或秘密政府力量的冲突；在公开证据层面仍属传闻与阴谋论文献范畴。
+      The “Dulce War” label usually refers to stories about a secret underground facility, human–alleged non-human
+      conflict, and black-budget programs. In the open literature, these claims remain anecdotal and contested rather
+      than established fact.
     </p>
   </div>
 </header>
 
 <section class="section">
   <div class="container">
-    <h2>概述</h2>
+    <h2>Overview</h2>
     <p class="lead">
-      相关说法常与不明飞行物、秘密实验及地下隧道网络等主题交织。阅读时宜区分一手档案、可核实的地理与行政信息，以及后来的演绎与再创作。本条目作为 Spicopedia 索引入口，便于与站内其他主题交叉引用。
+      Narratives often intersect with UFO topics, tunnel rumors, and whistleblower testimony of uneven credibility.
+      Useful analysis separates verifiable geography, government records, and later synthesis or fiction. This page
+      serves as a Spicopedia anchor for linking related themes on the site.
     </p>
   </div>
 </section>
