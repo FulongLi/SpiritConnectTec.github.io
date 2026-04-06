@@ -33,26 +33,14 @@ permalink: /spicopedia/
 <section class="section section-featured">
   <div class="container">
     <h2>Index</h2>
-    <div class="grid" style="margin-top: 2rem;">
-      <div class="card">
-        <h3>Stephen Cross</h3>
-        <p>
-          <strong>Stephen Cross</strong> is the father of <strong>Paul J. Cross</strong>, who serves as a Professor 
-          on the Board of Directors at Spirit Connect Technology.
-        </p>
-        <p style="margin-top: 1rem;">
-          Stephen Cross is the author of <em><strong>The Next 30,000 Days of Humanity</strong></em>, a visionary 
-          work that explores the future trajectory of human civilization and consciousness. His writings have 
-          significantly influenced the philosophical and scientific foundations of consciousness transfer technology 
-          and digital existence.
-        </p>
-        <p style="margin-top: 1rem;">
-          Through his son Paul's academic work and board position, Stephen Cross's insights continue to shape 
-          the direction of Spirit Connect Technology's research and development in consciousness 
-          preservation and digital immortality.
-        </p>
-      </div>
-    </div>
+    <p class="lead" style="margin-top: 1rem;">
+      以下条目按标题拼音字母顺序排列（数字开头排在最前）。
+    </p>
+    <ul class="lead" style="margin-top: 1.5rem; line-height: 2; list-style-position: inside;">
+      <li><a href="{{ '/spicopedia/1947-roswell-ufo-crash/' | relative_url }}">1947罗斯威尔飞碟坠毁事件</a></li>
+      <li><a href="{{ '/spicopedia/dulce-war/' | relative_url }}">道西战争</a></li>
+      <li><a href="{{ '/spicopedia/oil-deception/' | relative_url }}">石油骗局</a></li>
+    </ul>
   </div>
 </section>
 
