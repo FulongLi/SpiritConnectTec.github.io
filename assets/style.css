@@ -108,7 +108,13 @@ h1, h2, h3, h4 {
   height: 1px;
   background: linear-gradient(90deg, transparent, rgba(0, 229, 255, 0.15), transparent);
 }
-.nav-inner { display: flex; align-items: center; justify-content: space-between; padding: 1rem 0; }
+.nav-inner { display: flex; align-items: center; justify-content: space-between; padding: 1rem 0; gap: 1rem; flex-wrap: wrap; }
+.nav-left { display: flex; align-items: center; gap: 1rem 1.25rem; flex-wrap: wrap; min-width: 0; }
+.lang-switch { display: flex; align-items: center; gap: 0.35rem; font-size: 0.9rem; flex-shrink: 0; }
+.lang-switch a { font-weight: 600; opacity: 0.72; text-decoration: none; color: inherit; }
+.lang-switch a:hover { opacity: 1; color: var(--brand); }
+.lang-switch a.lang-active { opacity: 1; color: var(--brand); }
+.lang-switch span { opacity: 0.45; user-select: none; }
 .brand {
   display: flex; align-items: center; gap: .6rem;
   font-weight: 700; color: #fff; font-size: 1.1rem;

@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Document
 description: Latest updates and announcements from Spirit Connect Technology.
 permalink: /company/document/

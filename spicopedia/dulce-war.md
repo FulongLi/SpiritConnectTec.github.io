@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Dulce War
 description: Urban legend and conspiracy literature around an alleged underground base near Dulce, New Mexico, and the so-called “Dulce War.”
 permalink: /spicopedia/dulce-war/

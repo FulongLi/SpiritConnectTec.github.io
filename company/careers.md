@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Careers
 permalink: /company/careers/
 description: Join the team at Spirit Connect Technology.

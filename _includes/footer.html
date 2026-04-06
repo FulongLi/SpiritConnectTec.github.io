@@ -3,57 +3,61 @@
 
     <div>
       <div style="display:flex;align-items:center;gap:1.2rem;">
-        <img src="{{ '/images/general/logo_svg.svg' | relative_url }}" alt="Spirit Connect Technology" style="height:80px;width:auto;flex-shrink:0;">
+        <img src="{{ '/images/general/logo_svg.svg' | relative_url }}" alt="{% if is_zh %}灵接科技{% else %}Spirit Connect Technology{% endif %}" style="height:80px;width:auto;flex-shrink:0;">
         <div>
-          <strong style="font-size:1.15rem;margin-bottom:.3rem;">Spirit Connect Technology</strong>
+          <strong style="font-size:1.15rem;margin-bottom:.3rem;">{% if is_zh %}灵接科技{% else %}Spirit Connect Technology{% endif %}</strong>
           <p class="small" style="margin:0;color:var(--muted);">
-            Pioneering the future of human consciousness preservation and digital existence.
+            {% if is_zh %}开创人类意识保存与数字存身的未来。{% else %}Pioneering the future of human consciousness preservation and digital existence.{% endif %}
           </p>
         </div>
       </div>
       <p class="small" style="margin-top:1rem;">
-        The Sky City, North Pacific Ocean<br>
+        {% if is_zh %}天空之城，北太平洋<br>{% else %}The Sky City, North Pacific Ocean<br>{% endif %}
         <a href="mailto:info@spiritconnect.co.uk">info@spiritconnect.co.uk</a>
       </p>
     </div>
 
     <div>
-      <strong>Products</strong>
+      <strong>{% if is_zh %}产品{% else %}Products{% endif %}</strong>
       <p class="small">
-        <a href="{{ '/products/' | relative_url }}">All Products</a><br>
-        <a href="{{ '/products/cabin-sc1/' | relative_url }}">Cabin SC1</a><br>
-        <a href="{{ '/products/consciousness-projector/' | relative_url }}">Consciousness Projector</a><br>
-        <a href="{{ '/another-world/' | relative_url }}">Another World</a><br>
-        <a href="{{ '/anotherworld/zone/' | relative_url }}">Zone</a><br>
-        <a href="{{ '/anotherworld/avatar/' | relative_url }}">Avatar</a>
+        <a href="{{ i18n_prefix | append: '/products/' | relative_url }}">{% if is_zh %}全部产品{% else %}All Products{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/products/cabin-sc1/' | relative_url }}">Cabin SC1</a><br>
+        <a href="{{ i18n_prefix | append: '/products/consciousness-projector/' | relative_url }}">{% if is_zh %}意识投影仪{% else %}Consciousness Projector{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/another-world/' | relative_url }}">{% if is_zh %}另一世界{% else %}Another World{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/anotherworld/zone/' | relative_url }}">{% if is_zh %}区域{% else %}Zone{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/anotherworld/avatar/' | relative_url }}">{% if is_zh %}化身{% else %}Avatar{% endif %}</a>
       </p>
     </div>
 
     <div>
-      <strong>Company</strong>
+      <strong>{% if is_zh %}公司{% else %}Company{% endif %}</strong>
       <p class="small">
-        <a href="{{ '/company/about/' | relative_url }}">About Us</a><br>
-        <a href="{{ '/company/team/' | relative_url }}">Team</a><br>
-        <a href="{{ '/company/faq/' | relative_url }}">FAQ</a><br>
-        <a href="{{ '/company/careers/' | relative_url }}">Careers</a><br>
-        <a href="{{ '/company/news/' | relative_url }}">News</a><br>
-        <a href="{{ '/company/document/' | relative_url }}">Document</a>
+        <a href="{{ i18n_prefix | append: '/company/about/' | relative_url }}">{% if is_zh %}关于我们{% else %}About Us{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/company/team/' | relative_url }}">{% if is_zh %}团队{% else %}Team{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/company/faq/' | relative_url }}">{% if is_zh %}常见问题{% else %}FAQ{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/company/careers/' | relative_url }}">{% if is_zh %}招聘{% else %}Careers{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/company/news/' | relative_url }}">{% if is_zh %}新闻{% else %}News{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/company/document/' | relative_url }}">{% if is_zh %}文档与资料{% else %}Document{% endif %}</a>
       </p>
     </div>
 
     <div>
-      <strong>Legal</strong>
+      <strong>{% if is_zh %}法律信息{% else %}Legal{% endif %}</strong>
       <p class="small">
-        <a href="{{ '/legal/privacy/' | relative_url }}">Privacy Policy</a><br>
-        <a href="{{ '/legal/terms/' | relative_url }}">Terms of Use</a><br>
-        <a href="{{ '/legal/cookies/' | relative_url }}">Cookie Policy</a>
+        <a href="{{ i18n_prefix | append: '/legal/privacy/' | relative_url }}">{% if is_zh %}隐私政策{% else %}Privacy Policy{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/legal/terms/' | relative_url }}">{% if is_zh %}使用条款{% else %}Terms of Use{% endif %}</a><br>
+        <a href="{{ i18n_prefix | append: '/legal/cookies/' | relative_url }}">{% if is_zh %}Cookie 政策{% else %}Cookie Policy{% endif %}</a>
       </p>
     </div>
   </div>
   
   <div class="container" style="margin-top:2rem;padding-top:2rem;border-top:1px solid var(--border);text-align:center;">
     <p class="small" style="color:var(--muted);">
-      © 2025 Spirit Connect Technology. story composed by Fulong Li. All rights reserved.
+      {% if is_zh %}
+      © 2025 灵接科技。故事由李扶龙博士编撰。保留所有权利。
+      {% else %}
+      © 2025 Spirit Connect Technology. Story composed by Dr. Fulong Li. All rights reserved.
+      {% endif %}
     </p>
   </div>
 </footer>

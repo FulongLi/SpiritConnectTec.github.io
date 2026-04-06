@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Privacy Policy
 permalink: /legal/privacy/
 description: Privacy policy for Spirit Connect Technology.

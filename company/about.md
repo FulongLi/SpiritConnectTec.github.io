@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: About Us
 description: Learn about Spirit Connect Technology and our mission.
 permalink: /company/about/

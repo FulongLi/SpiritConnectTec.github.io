@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Cabin SC1
 description: Advanced consciousness transfer system for memory upload and digital preservation.
 permalink: /products/cabin-sc1/

@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Terms of Use
 permalink: /legal/terms/
 description: Terms of use for Spirit Connect Technology.

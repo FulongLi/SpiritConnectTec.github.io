@@ -1,9 +1,9 @@
 ---
 layout: default
-lang: en
-title: Another World
-description: A virtual reality real-time immersive game for digitized consciousness.
-permalink: /another-world/
+lang: zh
+title: 另一世界
+description: 面向数字化意识的虚拟现实实时沉浸游戏。
+permalink: /zh/another-world/
 ---
 <style>
   .anotherworld-hero-bg {
@@ -37,7 +37,7 @@ permalink: /another-world/
     content: '';
     position: absolute;
     inset: 0;
-    background: rgba(16, 26, 40, 0.60); /* dark overlay for readability */
+    background: rgba(16, 26, 40, 0.60);
     z-index: 0;
     pointer-events: none;
   }
@@ -168,28 +168,28 @@ permalink: /another-world/
   }
 </style>
 <div class="background-music">
-  <span class="background-music-label">🎵 Background Music</span>
+  <span class="background-music-label">🎵 背景音乐</span>
   <audio id="backgroundMusic" controls autoplay loop>
     <source src="{{ '/assets/bgm.ogg' | relative_url }}" type="audio/ogg">
     <source src="{{ '/assets/bgm.mp3' | relative_url }}" type="audio/mpeg">
-    Your browser does not support the audio element.
+    您的浏览器不支持音频元素。
   </audio>
 </div>
 <div class="anotherworld-hero-bg">
   <video autoplay muted loop playsinline>
     <source src="{{ '/images/general/aow.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
+    您的浏览器不支持视频标签。
   </video>
   <div class="container">
-    <h1 style="color: #fff; font-size: 3.2rem; line-height: 1.1; margin-top: 0; margin-bottom: 2.2rem;">Welcome to Another World</h1>
+    <h1 style="color: #fff; font-size: 3.2rem; line-height: 1.1; margin-top: 0; margin-bottom: 2.2rem;">欢迎来到另一世界</h1>
     <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-bottom: 2.4rem;">
       <p class="lead" style="color: #eee; text-align: center; margin: 0;">
-        This is not just a game—it's a new dimension where your digital self can explore, create, and evolve without physical limitations.
+        这不仅是游戏——更是数字自我探索、创造与演化的全新维度，不受肉体局限。
       </p>
     </div>
     <div class="hero-actions" style="margin-bottom:2.2rem;">
-      <a class="btn btn-primary" href="{{ '/anotherworld/zone/' | relative_url }}">Enter Another World</a>
-      <a class="btn btn-ghost" href="{{ '/anotherworld/avatar/' | relative_url }}">Get Started</a>
+      <a class="btn btn-primary" href="{{ '/zh/anotherworld/zone/' | relative_url }}">进入另一世界</a>
+      <a class="btn btn-ghost" href="{{ '/zh/anotherworld/avatar/' | relative_url }}">开始使用</a>
     </div>
   </div>
 </div>
@@ -197,12 +197,10 @@ permalink: /another-world/
 <section class="section section-featured">
   <div class="container">
     <div class="section-header">
-      <span class="section-badge">THE FUTURE OF DIGITAL EXISTENCE</span>
-      <h2>A Virtual Reality Real-Time Immersive Game</h2>
+      <span class="section-badge">数字存在的未来</span>
+      <h2>虚拟现实实时沉浸游戏</h2>
       <p class="lead">
-        Another World is a revolutionary virtual reality platform designed specifically for digitized consciousness. 
-        Once your consciousness has been uploaded using our Cabin SC1 system, you can enter Another World and 
-        experience existence in a completely digital realm.
+        「另一世界」是专为数字化意识打造的革命性虚拟现实平台。使用 Cabin SC1 完成意识上传后，即可进入并在纯数字领域中体验存在。
       </p>
     </div>
   </div>
@@ -210,42 +208,35 @@ permalink: /another-world/
 
 <section class="section">
   <div class="container">
-    <h2>What is Another World?</h2>
+    <h2>什么是另一世界？</h2>
     <p class="lead">
-      Another World represents the pinnacle of digital existence. It's a persistent virtual reality environment 
-      where digitized consciousnesses can live, interact, create, and evolve in ways never before possible.
+      「另一世界」代表数字存在的一种极致形态：持久运行的虚拟现实环境，数字化意识可在其中生活、互动、创造与演化。
     </p>
     
     <div class="grid" style="margin-top: 3rem;">
       <div class="card">
-        <h3>🌌 Real-time Immersion</h3>
-        <p>Experience the virtual world as if it were reality. Every moment feels authentic, every interaction 
-        is meaningful, and every experience is preserved in your digital consciousness.</p>
+        <h3>🌌 实时沉浸</h3>
+        <p>如真实世界般体验虚拟时空：每一刻可感可触，互动有意义，经历写入数字意识。</p>
       </div>
       <div class="card">
-        <h3>♾️ Infinite Possibilities</h3>
-        <p>Create, explore, and interact in ways never before possible. Build structures, design environments, 
-        and shape the world around you with unlimited creative freedom.</p>
+        <h3>♾️ 无限可能</h3>
+        <p>以前所未有的方式创造、探索与互动：建造结构、设计环境，以无限创意塑造周遭世界。</p>
       </div>
       <div class="card">
-        <h3>👥 Consciousness Interaction</h3>
-        <p>Meet and interact with other digitized consciousnesses. Form relationships, collaborate on projects, 
-        and share experiences in a truly social digital environment.</p>
+        <h3>👥 意识社交</h3>
+        <p>与其他数字化意识相遇互动，建立关系、协作项目，在真正的社交数字环境中分享经历。</p>
       </div>
       <div class="card">
-        <h3>🔄 Persistent World</h3>
-        <p>Your digital existence continues even when you're not actively connected. The world evolves, 
-        your consciousness grows, and your presence remains in Another World.</p>
+        <h3>🔄 持久世界</h3>
+        <p>即使离线，数字存在仍在延续：世界演化，意识成长，你在「另一世界」中的在场持续存在。</p>
       </div>
       <div class="card">
-        <h3>📈 Continuous Evolution</h3>
-        <p>The world grows and evolves with the consciousnesses within it. New areas unlock, new possibilities 
-        emerge, and the digital realm expands based on collective experiences.</p>
+        <h3>📈 持续演化</h3>
+        <p>世界随其中的意识共同成长：新区域解锁，新可能涌现，数字疆域随集体体验扩展。</p>
       </div>
       <div class="card">
-        <h3>🎮 Game Elements</h3>
-        <p>Engage with quests, challenges, and achievements that help you explore, learn, and grow in the 
-        digital realm while maintaining the freedom of open-world exploration.</p>
+        <h3>🎮 游戏元素</h3>
+        <p>任务、挑战与成就助你探索、学习与成长，同时保留开放世界探索的自由。</p>
       </div>
     </div>
   </div>
@@ -255,59 +246,54 @@ permalink: /another-world/
   <div class="container">
     <div class="case-study-content">
       <div class="case-study-text">
-        <span class="section-badge">YOUR DIGITAL JOURNEY</span>
-        <h2>How to Enter Another World</h2>
+        <span class="section-badge">数字旅程</span>
+        <h2>如何进入另一世界</h2>
         <p class="lead">
-          Entering Another World is a simple process that begins with consciousness transfer. Follow these 
-          steps to begin your journey into digital existence.
+          从意识传输开始，流程清晰可循。按以下步骤开启数字存在之旅。
         </p>
         <div style="margin-top: 2rem;">
           <div style="display: flex; gap: 1.5rem; align-items: start; margin-bottom: 1.5rem;">
             <div style="flex-shrink: 0; width: 50px; height: 50px; background: rgba(255,255,255,.2); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 1.2rem;">1</div>
             <div>
-              <h3 style="color: #fff; margin: 0 0 0.5rem;">Upload Your Consciousness</h3>
-              <p style="margin: 0; color: rgba(255,255,255,.8);">Use the Cabin SC1 to transfer your consciousness to digital storage. 
-              This process captures every aspect of your being for digital preservation.</p>
+              <h3 style="color: #fff; margin: 0 0 0.5rem;">上传意识</h3>
+              <p style="margin: 0; color: rgba(255,255,255,.8);">使用 Cabin SC1 将意识转入数字存储，全面捕捉「你」的方方面面以作保存。</p>
             </div>
           </div>
           
           <div style="display: flex; gap: 1.5rem; align-items: start; margin-bottom: 1.5rem;">
             <div style="flex-shrink: 0; width: 50px; height: 50px; background: rgba(255,255,255,.2); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 1.2rem;">2</div>
             <div>
-              <h3 style="color: #fff; margin: 0 0 0.5rem;">Connect to Another World</h3>
-              <p style="margin: 0; color: rgba(255,255,255,.8);">Access the virtual reality platform through our secure network. 
-              Your digitized consciousness is authenticated and prepared for entry.</p>
+              <h3 style="color: #fff; margin: 0 0 0.5rem;">连接另一世界</h3>
+              <p style="margin: 0; color: rgba(255,255,255,.8);">通过安全网络访问虚拟现实平台，完成数字化意识的认证与入场准备。</p>
             </div>
           </div>
           
           <div style="display: flex; gap: 1.5rem; align-items: start; margin-bottom: 1.5rem;">
             <div style="flex-shrink: 0; width: 50px; height: 50px; background: rgba(255,255,255,.2); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 1.2rem;">3</div>
             <div>
-              <h3 style="color: #fff; margin: 0 0 0.5rem;">Create Your Avatar</h3>
-              <p style="margin: 0; color: rgba(255,255,255,.8);">Design your digital representation in the virtual world. 
-              Customize your appearance to reflect your personality and preferences.</p>
+              <h3 style="color: #fff; margin: 0 0 0.5rem;">创建化身</h3>
+              <p style="margin: 0; color: rgba(255,255,255,.8);">在虚拟世界中设计数字形象，按个性与偏好定制外观。</p>
             </div>
           </div>
           
           <div style="display: flex; gap: 1.5rem; align-items: start;">
             <div style="flex-shrink: 0; width: 50px; height: 50px; background: rgba(255,255,255,.2); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 1.2rem;">4</div>
             <div>
-              <h3 style="color: #fff; margin: 0 0 0.5rem;">Begin Your Journey</h3>
-              <p style="margin: 0; color: rgba(255,255,255,.8);">Start exploring, creating, and interacting in Another World. 
-              Your digital existence has begun, and the possibilities are endless.</p>
+              <h3 style="color: #fff; margin: 0 0 0.5rem;">开启旅程</h3>
+              <p style="margin: 0; color: rgba(255,255,255,.8);">在「另一世界」中探索、创造与互动。数字存在已然开始，可能性无穷。</p>
             </div>
           </div>
         </div>
         <div class="case-study-actions" style="margin-top: 2rem;">
-          <a href="{{ '/products/cabin-sc1/' | relative_url }}" class="btn btn-primary">Get Cabin SC1</a>
-          <a href="{{ '/contact/' | relative_url }}" class="btn btn-ghost">Learn More</a>
+          <a href="{{ '/zh/products/cabin-sc1/' | relative_url }}" class="btn btn-primary">获取 Cabin SC1</a>
+          <a href="{{ '/zh/contact/' | relative_url }}" class="btn btn-ghost">了解更多</a>
         </div>
       </div>
       <div class="case-study-visual">
         <div class="visual-placeholder">
           <video autoplay muted loop playsinline style="max-width: 100%; height: auto; border-radius: var(--radius);">
             <source src="{{ '/images/general/enter.mp4' | relative_url }}" type="video/mp4">
-            Your browser does not support the video tag.
+            您的浏览器不支持视频标签。
           </video>
         </div>
       </div>
@@ -324,7 +310,7 @@ permalink: /another-world/
           <div class="visual-placeholder" style="padding: 0; overflow: hidden;">
             <video autoplay muted loop playsinline style="width: 80%; height: 80%; object-fit: cover; border-radius: var(--radius);">
               <source src="{{ '/images/general/LA.mp4' | relative_url }}" type="video/mp4">
-              Your browser does not support the video tag.
+              您的浏览器不支持视频标签。
             </video>
           </div>
         </div>
@@ -333,37 +319,22 @@ permalink: /another-world/
           <div class="visual-placeholder" style="padding: 0; overflow: hidden;">
             <video autoplay muted loop playsinline style="width: 80%; height: 80%; object-fit: cover; border-radius: var(--radius);">
               <source src="{{ '/images/general/db.mp4' | relative_url }}" type="video/mp4">
-              Your browser does not support the video tag.
+              您的浏览器不支持视频标签。
             </video>
           </div>
         </div>
-        <!-- <div style="margin-top: 2rem;">
-          <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--fg);">Dragons</h3>
-          <div class="photo-carousel">
-            <button class="carousel-nav prev" onclick="slideCarousel('prev')" aria-label="Previous">‹</button>
-            <div class="carousel-track" id="carouselTrack">
-              <div class="carousel-slide">
-                <img src="{{ '/images/anotherworld/dragons/long_nature.png' | relative_url }}" alt="Dragon Nature">
-              </div>
-              <div class="carousel-slide">
-                <img src="{{ '/images/anotherworld/dragons/long_sea.png' | relative_url }}" alt="Dragon Sea">
-              </div>
-            </div>
-            <button class="carousel-nav next" onclick="slideCarousel('next')" aria-label="Next">›</button>
-            <div class="carousel-dots" id="carouselDots"></div>
-          </div>
-        </div> -->
         <script>
           let currentSlide = 0;
           const totalSlides = 2;
           
           function initCarousel() {
             const dotsContainer = document.getElementById('carouselDots');
+            if (!dotsContainer) return;
             for (let i = 0; i < totalSlides; i++) {
               const dot = document.createElement('button');
               dot.className = 'carousel-dot' + (i === 0 ? ' active' : '');
               dot.setAttribute('onclick', `goToSlide(${i})`);
-              dot.setAttribute('aria-label', `Go to slide ${i + 1}`);
+              dot.setAttribute('aria-label', `第 ${i + 1} 张`);
               dotsContainer.appendChild(dot);
             }
             updateCarousel();
@@ -385,6 +356,7 @@ permalink: /another-world/
           
           function updateCarousel() {
             const track = document.getElementById('carouselTrack');
+            if (!track) return;
             track.style.transform = `translateX(-${currentSlide * 100}%)`;
             
             const dots = document.querySelectorAll('.carousel-dot');
@@ -401,32 +373,26 @@ permalink: /another-world/
         </script>
       </div>
       <div class="solution-text">
-        <h2>The Experience</h2>
+        <h2>体验</h2>
         <p class="lead">
-          In Another World, your digitized consciousness can explore vast virtual landscapes, create and build 
-          in the digital realm, interact with other digitized consciousnesses, learn and grow without physical 
-          limitations, and experience new realities and possibilities that transcend the boundaries of physical existence.
+          在「另一世界」中，数字化意识可探索广袤虚拟景观，在数字领域中建造创作，与其他数字化意识互动，在无肉体束缚下学习成长，并体验超越物理界限的新现实与可能。
         </p>
         <div class="grid" style="margin-top: 2rem; grid-template-columns: 1fr;">
           <div class="card">
-            <h3>Exploration</h3>
-            <p>Discover vast virtual landscapes, from serene natural environments to futuristic cities. 
-            Every corner of Another World holds new experiences and opportunities.</p>
+            <h3>探索</h3>
+            <p>从宁静自然到未来都市，每一处角落都有新的体验与机遇。</p>
           </div>
           <div class="card">
-            <h3>Creation</h3>
-            <p>Build structures, design environments, and create art in the digital realm. Your imagination 
-            is the only limit to what you can create in Another World.</p>
+            <h3>创造</h3>
+            <p>建造结构、设计环境、创作艺术；想象力是在「另一世界」中唯一的边界。</p>
           </div>
           <div class="card">
-            <h3>Social Interaction</h3>
-            <p>Meet other digitized consciousnesses, form communities, collaborate on projects, and share 
-            experiences in a truly social digital environment.</p>
+            <h3>社交</h3>
+            <p>结识其他数字化意识，组建社群，协作项目，在真正的社交数字环境中分享经历。</p>
           </div>
           <div class="card">
-            <h3>Growth & Learning</h3>
-            <p>Learn new skills, acquire knowledge, and grow your digital consciousness without the constraints 
-            of physical limitations or time.</p>
+            <h3>成长与学习</h3>
+            <p>学习新技能、获取知识，在不受肉体与时间限制的情况下扩展数字意识。</p>
           </div>
         </div>
       </div>
@@ -436,22 +402,19 @@ permalink: /another-world/
 
 <section class="section">
   <div class="container">
-    <h2>Technical Requirements</h2>
+    <h2>技术要求</h2>
     <div class="grid" style="margin-top: 2rem;">
       <div class="card">
         <h3>Cabin SC1</h3>
-        <p>Digitized consciousness uploaded via Cabin SC1 is required. Your consciousness must be fully 
-        transferred and verified before entering Another World.</p>
+        <p>须先通过 Cabin SC1 完成意识上传并经校验，方可进入「另一世界」。</p>
       </div>
       <div class="card">
-        <h3>Consciousness Projector (Optional)</h3>
-        <p>For optimal visualization, the Consciousness Projector can display your Another World experiences in 
-        stunning holographic detail in your physical space.</p>
+        <h3>意识投影仪（可选）</h3>
+        <p>为获得最佳可视化效果，可用意识投影仪将「另一世界」体验以全息形式呈现在物理空间中。</p>
       </div>
       <div class="card">
-        <h3>Network Connection</h3>
-        <p>Secure network connection is required for real-time interaction and synchronization with the 
-        Another World servers.</p>
+        <h3>网络连接</h3>
+        <p>需要安全网络连接，以实现与「另一世界」服务器的实时互动与同步。</p>
       </div>
     </div>
   </div>
@@ -460,12 +423,11 @@ permalink: /another-world/
 <section class="section section-cta">
   <div class="container">
     <div class="cta-content">
-      <h2>Ready to Enter Another World?</h2>
+      <h2>准备进入另一世界？</h2>
       <p class="lead">
-        Begin your journey into digital existence. Contact us to learn more about Another World and 
-        how to prepare your consciousness for entry into this revolutionary virtual reality platform.
+        开启数字存在之旅：联系我们，了解「另一世界」以及如何为进入这一革命性虚拟现实平台做好准备。
       </p>
-      <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary btn-large">Get Started</a>
+      <a href="{{ '/zh/contact/' | relative_url }}" class="btn btn-primary btn-large">开始使用</a>
     </div>
   </div>
 </section>

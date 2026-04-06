@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: News
 permalink: /company/news/
 description: Latest updates and announcements from Spirit Connect Technology.

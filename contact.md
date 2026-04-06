@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Contact Us
 permalink: /contact/
 description: Get in touch with Spirit Connect Technology.

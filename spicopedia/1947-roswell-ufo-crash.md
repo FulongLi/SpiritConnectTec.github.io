@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Roswell UFO Crash (1947)
 description: The 1947 Roswell, New Mexico incident—reports of an unidentified object crash, official statements, and competing explanations.
 permalink: /spicopedia/1947-roswell-ufo-crash/

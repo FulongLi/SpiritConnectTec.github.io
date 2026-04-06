@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: en
 title: Home
+permalink: /
 description: Copy and update human consciousness and memory to the digital world.
 ---
 

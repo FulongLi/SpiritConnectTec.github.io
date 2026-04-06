@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: FAQ
 permalink: /company/faq/
 description: Frequently asked questions about consciousness transfer and our technology.

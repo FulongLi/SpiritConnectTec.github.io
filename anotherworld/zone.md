@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Zone
 description: Explore zones and enter Another World - a virtual reality platform for digitized consciousness.
 permalink: /anotherworld/zone/

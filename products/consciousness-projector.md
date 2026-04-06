@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Consciousness Projector
 description: State-of-the-art projection technology for visualizing digitized consciousness.
 permalink: /products/consciousness-projector/

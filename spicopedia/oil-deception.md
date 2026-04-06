@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Oil Deception
 description: Critiques and alternative narratives about petroleum origins, scarcity, pricing, and energy geopolitics—often grouped under “oil hoax” or deception themes.
 permalink: /spicopedia/oil-deception/

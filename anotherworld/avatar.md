@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Avatar
 description: Create and customize your digital avatar for Another World.
 permalink: /anotherworld/avatar/

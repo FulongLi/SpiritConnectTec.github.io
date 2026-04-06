@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 title: Products
 description: Hardware solutions for consciousness transfer and memory upload.
 permalink: /products/

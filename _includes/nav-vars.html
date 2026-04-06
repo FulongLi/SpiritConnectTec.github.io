@@ -1,0 +1,24 @@
+{% assign is_zh = false %}
+{% if page.lang == 'zh' %}
+  {% assign is_zh = true %}
+{% endif %}
+{% if is_zh %}
+  {% if page.url == '/zh/' %}
+    {% assign switch_en_url = '/' %}
+  {% else %}
+    {% assign switch_en_url = page.url | remove_first: '/zh' %}
+  {% endif %}
+  {% assign switch_zh_url = page.url %}
+{% else %}
+  {% assign switch_en_url = page.url %}
+  {% if page.url == '/' or page.url == '/index.html' %}
+    {% assign switch_zh_url = '/zh/' %}
+  {% else %}
+    {% assign switch_zh_url = '/zh' | append: page.url %}
+  {% endif %}
+{% endif %}
+{% if is_zh %}
+  {% assign i18n_prefix = '/zh' %}
+{% else %}
+  {% assign i18n_prefix = '' %}
+{% endif %}
